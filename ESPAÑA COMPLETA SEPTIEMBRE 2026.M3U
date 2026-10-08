@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="MOVISTAR TV",LA 1
 http://7317d2fb149e23f5c3cab1803ff4668e.rnada.araman.lol:25461/2DkWXVuUKT/677777918887/3797?h=c09033c4761112f5be16838bae77c6b6fbf3c3e1&z=79.112.48.143&i=95164
 
