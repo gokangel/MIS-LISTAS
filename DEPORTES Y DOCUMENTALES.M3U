@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U url-tvg="http://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTVHD
 http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26046?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTVHD+
