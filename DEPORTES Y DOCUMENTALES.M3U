@@ -1,224 +1,361 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD" group-title="DEPORTES",DAZN LALIGA HD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/27160?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD+" group-title="DEPORTES",DAZN LALIGA HD+
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/27173?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA " group-title="DEPORTES",DAZN LALIGA 
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/27174?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD" group-title="DEPORTES",DAZN LALIGA SD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27170?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD 235" group-title="DEPORTES",DAZN LALIGA HD 235
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27226?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 4K" group-title="DEPORTES",DAZN LALIGA 4K
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27168?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA FULL HD" group-title="DEPORTES",DAZN LALIGA FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27175?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" group-title="DEPORTES",DAZN LALIGA 2 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27161?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FULL HD" group-title="DEPORTES",DAZN LALIGA 2 FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27163?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 3" group-title="DEPORTES",DAZN LALIGA 3
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/31113?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 4" group-title="DEPORTES",DAZN LALIGA 4
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/31114?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD" group-title="DEPORTES",M+ LaLigaTVHD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/26046?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD+" group-title="DEPORTES",M+ LaLigaTVHD+
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/26248?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD 235" group-title="DEPORTES",M+ LaLigaTVHD 235
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27224?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV" group-title="DEPORTES",M+ LaLigaTV
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/435?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVSD" group-title="DEPORTES",M+ LaLigaTVSD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/26247?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV FULL HD" group-title="DEPORTES",M+ LaLigaTV FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/3849?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 4K" group-title="DEPORTES",M+ LaLigaTV 4K
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/26142?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 2 HD" group-title="DEPORTES",M+ LaLigaTV 2 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26048?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 2 FULL HD" group-title="DEPORTES",M+ LaLigaTV 2 FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26045?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 3 HD" group-title="DEPORTES",M+ LaLigaTV 3 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/28987?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 4" group-title="DEPORTES",M+ LaLigaTV 4
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/28989?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ Fanzone" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Fanzone.png" group-title="DEPORTES",M+ Fanzone
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26048?h=c09033c4761112f5be16838bae77c6b6fbf3c3e1&z=79.112.48.143&i=95164
-#EXTINF:-1 tvg-id="" tvg-name="M+ Fanzone" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Fanzone.png" group-title="DEPORTES",M+ Fanzone
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26045?h=c09033c4761112f5be16838bae77c6b6fbf3c3e1&z=79.112.48.143&i=95164
-#EXTINF:-1 tvg-id="" tvg-name="DAZN RALLY TV" group-title="DEPORTES",DAZN RALLY TV
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/31112?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTO GP HD" group-title="DEPORTES",DAZN MOTO GP HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30743?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" group-title="DEPORTES",DAZN F1 HD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/26626?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" group-title="DEPORTES",DAZN 1 HD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/24923?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" group-title="DEPORTES",DAZN 2 HD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/24922?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" group-title="DEPORTES",DAZN 3 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26628?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" group-title="DEPORTES",DAZN 4 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26629?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="UEFA Champions League" group-title="DEPORTES",UEFA Champions League
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/28334?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES +" group-title="DEPORTES",M+ LCAMPEONES +
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/26318?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" group-title="DEPORTES",M+ LCAMPEONES SD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26317?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" group-title="DEPORTES",M+ LCAMPEONES HD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/445?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" group-title="DEPORTES",M+ LCAMPEONES HD+
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/26315?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 4K" group-title="DEPORTES",M+ LCAMPEONES 4K
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26140?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" group-title="DEPORTES",M+ LCAMPEONES FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26078?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 HD" group-title="DEPORTES",M+ LCAMPEONES 2 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/439?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 FULL HD" group-title="DEPORTES",M+ LCAMPEONES 2 FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26080?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+ HD" group-title="DEPORTES",Movistar Plus+ HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/26663?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+ FULL HD" group-title="DEPORTES",Movistar Plus+ FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27193?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION HD" group-title="DEPORTES",LALIGA TV HYPERMOTION HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27164?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION FULL HD" group-title="DEPORTES",LALIGA TV HYPERMOTION FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27166?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 HD" group-title="DEPORTES",LALIGA TV HYPERMOTION 2 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27194?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2 FULL HD" group-title="DEPORTES",LALIGA TV HYPERMOTION 2 FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27196?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 HD" group-title="DEPORTES",LALIGA TV HYPERMOTION 3 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27195?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 FULL HD" group-title="DEPORTES",LALIGA TV HYPERMOTION 3 FULL HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27197?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZNBaloncesto" group-title="DEPORTES",DAZNBaloncesto
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30586?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZNBaloncesto2" group-title="DEPORTES",DAZNBaloncesto2
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30587?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZNBaloncesto3" group-title="DEPORTES",DAZNBaloncesto3
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30588?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" group-title="DEPORTES",EUROSPORT 1 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/352?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT2HD" group-title="DEPORTES",EUROSPORT2HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/28723?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" group-title="DEPORTES",EUROSPORT 2
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/414?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="BBC TOP GEAR" group-title="DEPORTES",BBC TOP GEAR
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30325?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS HD" group-title="DEPORTES",M+ VAMOS HD
-http://9e888959eeb1fbda4802eb3840ab1356.jlahasad.csix.lol:25461/gKpHe3hByv/588167585797/379?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS 2 HD" group-title="DEPORTES",M+ VAMOS 2 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27822?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS 3 HD" group-title="DEPORTES",M+ VAMOS 3 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27159?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTESHD" group-title="DEPORTES",M+ DEPORTESHD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/359?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES2HD (SOLO EVENTOS)" group-title="DEPORTES",M+ DEPORTES2HD (SOLO EVENTOS)
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/427?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES3 (SOLO EVENTOS)" group-title="DEPORTES",M+ DEPORTES3 (SOLO EVENTOS)
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/429?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES4 (SOLO EVENTOS)" group-title="DEPORTES",M+ DEPORTES4 (SOLO EVENTOS)
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/430?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES5 (SOLO EVENTOS)" group-title="DEPORTES",M+ DEPORTES5 (SOLO EVENTOS)
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/431?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES6 (SOLO EVENTOS)" group-title="DEPORTES",M+ DEPORTES6 (SOLO EVENTOS)
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/432?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 1" group-title="DEPORTES",DAZN ACB 1
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30029?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 2" group-title="DEPORTES",DAZN ACB 2
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30030?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 3" group-title="DEPORTES",DAZN ACB 3
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30031?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 4" group-title="DEPORTES",DAZN ACB 4
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30032?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 5" group-title="DEPORTES",DAZN ACB 5
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30033?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 6" group-title="DEPORTES",DAZN ACB 6
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30034?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 7" group-title="DEPORTES",DAZN ACB 7
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30035?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 8" group-title="DEPORTES",DAZN ACB 8
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30036?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 9" group-title="DEPORTES",DAZN ACB 9
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30037?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 10" group-title="DEPORTES",DAZN ACB 10
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30038?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="UFC HD" group-title="DEPORTES",UFC HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/28982?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY" group-title="DEPORTES",GOL PLAY
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/418?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="TELE MADRID" group-title="DEPORTES",TELE MADRID
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/29462?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" group-title="DEPORTES",Realmadrid TV HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/455?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE HD" group-title="DEPORTES",TELEDEPORTE HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/457?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF HD" group-title="DEPORTES",M+ GOLF HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/361?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" group-title="DEPORTES",M+ GOLF 2 HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/27230?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" group-title="DEPORTES",MULTIDEPORTE
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/449?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="PRIMERA FEDERACION HD" group-title="DEPORTES",PRIMERA FEDERACION HD
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30310?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA INSIDE (PLUS)" group-title="DEPORTES",LALIGA INSIDE (PLUS)
-http://572b383c0e121e8f3b1bd00fbea1894d.rnada.araman.lol:25461/bY9oaZeB6F/720052267560/30311?h=d382d91393c663937531ab8f41843d7028d8634e&z=79.112.48.143&i=95165
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTVHD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26046?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTVHD+
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26248?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD 235" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTVHD 235
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27224?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTV
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/435?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVSD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTVSD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26247?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTV FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/3849?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_750F_420_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTV 4K
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26142?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7853_41A_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTV 2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26048?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7853_41A_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LaLigaTV 2 FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26045?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="DEPORTES",M+ LaLigaTV 3 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/28987?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27160?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA HD+
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27173?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA HD 235" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA HD 235
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27226?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27174?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA SD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA SD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27170?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27175?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 4K" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7534_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA 4K
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27168?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA 2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27161?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74CE_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN LALIGA 2 FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27163?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA EA SPORTS +" tvg-logo="" group-title="DEPORTES",LALIGA EA SPORTS +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31737?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",Movistar Plus+ HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26663?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D4_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",Movistar Plus+ FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27193?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="DEPORTES",UEFA Champions League
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/28334?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26318?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES SD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26317?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/445?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES HD+
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26315?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES 4K
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26140?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B4_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26078?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES 2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/439?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D5_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",M+ LCAMPEONES 2 FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26080?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="DEPORTES",M+ LCAMPEONES 3 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31127?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="DEPORTES",M+ LCAMPEONES 3 FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31126?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="DEPORTES",M+ LCAMPEONES 4
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31128?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="DEPORTES",M+ LCAMPEONES 5
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31129?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="DEPORTES",M+LCAMPEON6
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31154?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="DEPORTES",M+LCAMPEON7
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31155?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="DEPORTES",M+LCAMPEON8
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31156?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON9" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" group-title="DEPORTES",M+LCAMPEON9
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31157?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON10" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" group-title="DEPORTES",M+LCAMPEON10
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31158?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON11" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" group-title="DEPORTES",M+LCAMPEON11
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31159?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON12" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" group-title="DEPORTES",M+LCAMPEON12
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31160?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON13" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="DEPORTES",M+LCAMPEON13
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",LALIGA TV HYPERMOTION HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27164?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_74D6_3F8_1_C00000_0_0_0.png" group-title="DEPORTES",LALIGA TV HYPERMOTION FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27166?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_75FA_408_1_C00000_0_0_0.png" group-title="DEPORTES",LALIGA TV HYPERMOTION 2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27194?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_75FA_408_1_C00000_0_0_0.png" group-title="DEPORTES",LALIGA TV HYPERMOTION 2 FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27196?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7606_408_1_C00000_0_0_0.png" group-title="DEPORTES",LALIGA TV HYPERMOTION 3 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27195?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 FULL HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7606_408_1_C00000_0_0_0.png" group-title="DEPORTES",LALIGA TV HYPERMOTION 3 FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27197?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA INSIDE  PLUS" tvg-logo="https://media.tvup.cloud/canales/color_lg_654b7c53df47884c5b032b4e.png" group-title="DEPORTES",LALIGA INSIDE  PLUS
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30311?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="PRIMERA FEDERACION HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" group-title="DEPORTES",PRIMERA FEDERACION HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30310?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png" group-title="DEPORTES",M+Baloncesto
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31121?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Baloncesto2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png" group-title="DEPORTES",M+Baloncesto2
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31122?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" group-title="DEPORTES",DAZNBaloncesto
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30586?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" group-title="DEPORTES",DAZNBaloncesto2
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30587?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZNBaloncesto3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" group-title="DEPORTES",DAZNBaloncesto3
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30588?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7535_426_1_C00000_0_0_0.png" group-title="DEPORTES",EUROSPORT 1 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/352?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT2HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="DEPORTES",EUROSPORT2HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/28723?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_76A5_41E_1_C00000_0_0_0.png" group-title="DEPORTES",EUROSPORT 2
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/414?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC TOP GEAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png" group-title="DEPORTES",BBC TOP GEAR
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30325?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="DEPORTES",M+ VAMOS HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/379?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" group-title="DEPORTES",M+ VAMOS 2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27822?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" group-title="DEPORTES",M+ VAMOS 3 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27159?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTESHD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78C0_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ DEPORTESHD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/359?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7532_426_1_C00000_0_0_0.png" group-title="DEPORTES",M+ DEPORTES2HD  SOLO EVENTOS
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/427?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_77C2_40A_1_C00000_0_0_0.png" group-title="DEPORTES",M+ DEPORTES3  SOLO EVENTOS
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/429?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_77BF_40A_1_C00000_0_0_0.png" group-title="DEPORTES",M+ DEPORTES4  SOLO EVENTOS
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/430?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES5  SOLO EVENTOS" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_77C8_40A_1_C00000_0_0_0.png" group-title="DEPORTES",M+ DEPORTES5  SOLO EVENTOS
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/431?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES6  SOLO EVENTOS" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_769B_41E_1_C00000_0_0_0.png" group-title="DEPORTES",M+ DEPORTES6  SOLO EVENTOS
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/432?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 1" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 1
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30029?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 2" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 2
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30030?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 3" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 3
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30031?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 4" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 4
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30032?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 5" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 5
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30033?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 6" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 6
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30034?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 7" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 7
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30035?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 8" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 8
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30036?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 9" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 9
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30037?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN EVENTOS 10" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DEPORTES",DAZN EVENTOS 10
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30038?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC HD" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG69.png" group-title="DEPORTES",UFC HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/28982?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_74A3_41C_1_C00000_0_0_0.png" group-title="DEPORTES",GOL PLAY
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/418?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
 
-#EXTINF:-1 tvg-id="" tvg-name="mega" group-title="DOCUMENTALES",mega
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/25854?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" group-title="DOCUMENTALES",DMAX
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/25857?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="BeMad tv HD" group-title="DOCUMENTALES",BeMad tv HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/25870?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+Documentales HD" group-title="DOCUMENTALES",M+Documentales HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/27682?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="M+Documentales FULL HD" group-title="DOCUMENTALES",M+Documentales FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3821?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" group-title="DOCUMENTALES",CANAL ODISEA
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/399?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA FULL HD" group-title="DOCUMENTALES",CANAL ODISEA FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3829?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" group-title="DOCUMENTALES",NAT GEO
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/370?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FULL HD" group-title="DOCUMENTALES",NAT GEO FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3810?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" group-title="DOCUMENTALES",NAT GEO WILD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/371?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FULL HD" group-title="DOCUMENTALES",NAT GEO WILD FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3811?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" group-title="",DISCOVERY
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/408?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FULL HD" group-title="DOCUMENTALES",DISCOVERY FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3836?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" group-title="DOCUMENTALES",HISTORIA
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/419?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FULL HD" group-title="DOCUMENTALES",HISTORIA FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3844?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" group-title="DOCUMENTALES",CANAL DECASA
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/398?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA FULL HD" group-title="DOCUMENTALES",CANAL DECASA FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3828?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="CAZAVISION" group-title="DOCUMENTALES",CAZAVISION
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/29463?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" group-title="DOCUMENTALES",CAZAyPESCA HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/402?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA FULL HD" group-title="DOCUMENTALES",CAZAyPESCA FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3831?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP FULL HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" group-title="DEPORTES",DAZN MOTO GP FULL HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31120?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP HD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" group-title="DEPORTES",DAZN MOTO GP HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31119?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN MOTO GP SD" tvg-logo="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" group-title="DEPORTES",DAZN MOTO GP SD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30743?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN RALLY TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="DEPORTES",DAZN RALLY TV
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31112?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7531_426_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN F1 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26626?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_7855_41A_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN 1 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/24923?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_785F_41A_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN 2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/24922?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_77BE_40A_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN 3 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26628?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_77C0_40A_1_C00000_0_0_0.png" group-title="DEPORTES",DAZN 4 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/26629?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31161?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
 
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" group-title="DOCUMENTALES",IBERALIA TV
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/420?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FULL HD" group-title="DOCUMENTALES",IBERALIA TV FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3845?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC HISTORY" group-title="DOCUMENTALES",BBC HISTORY
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/30324?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" group-title="DOCUMENTALES",24/7 Alerta Aeropuerto
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/26596?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FULL HD" group-title="DOCUMENTALES",CANAL COCINA FULL HD
-http://9e888959eeb1fbda4802eb3840ab1356.rnada.araman.lol:25461/gKpHe3hByv/588167585797/3827?h=5d589c166441f2b310d0f55b9a90b672446a0918&z=79.116.80.58&i=95165
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TELE MADRID" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid%20Internacional.png" group-title="DEPORTES",TELE MADRID
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/29462?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/real-madrid.png" group-title="DEPORTES",Realmadrid TV HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/455?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="CASTILLA LA MANCHA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="DEPORTES",CASTILLA LA MANCHA
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31125?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_76CC_40E_1_C00000_0_0_0.png" group-title="DEPORTES",TELEDEPORTE HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/457?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B7_3EC_1_C00000_0_0_0.png" group-title="DEPORTES",M+ GOLF HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/361?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_756D_412_1_C00000_0_0_0.png" group-title="DEPORTES",M+ GOLF 2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27230?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7692_41E_1_C00000_0_0_0.png" group-title="DEPORTES",MULTIDEPORTE
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/449?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="TOP BAR  A HD" tvg-logo="" group-title="DEPORTES",TOP BAR  A HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31133?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPORT3 CAT HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="DEPORTES",ESPORT3 CAT HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31134?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="RED BULL TV" tvg-logo="https://static1.squarespace.com/static/52e7bca9e4b0357d590a94ef/t/531751a8e4b06e08b39bf475/1394036901650/RedBull.png" group-title="DEPORTES",RED BULL TV
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31141?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+2 HD" tvg-logo="" group-title="DEPORTES",Movistar Plus+2 HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31652?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Real Madrid +" tvg-logo="" group-title="DEPORTES",Real Madrid +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31738?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Got Talent Espana" tvg-logo="" group-title="DEPORTES",Got Talent Espana
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31739?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="El Dia Despues" tvg-logo="" group-title="DEPORTES",El Dia Despues
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31740?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Toros Para Todos" tvg-logo="" group-title="DEPORTES",Toros Para Todos
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31741?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Las Ventas" tvg-logo="" group-title="DEPORTES",Las Ventas
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31742?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Angel 775 Toros" tvg-logo="" group-title="DEPORTES",Angel 775 Toros
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31743?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Cocina con Carmen" tvg-logo="" group-title="DEPORTES",Cocina con Carmen
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31744?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Operacion Triunfo" tvg-logo="" group-title="DEPORTES",Operacion Triunfo
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31745?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN Espana +" tvg-logo="" group-title="DEPORTES",DAZN Espana +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31746?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="RFEF" tvg-logo="" group-title="DEPORTES",RFEF
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31747?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Eurosport Espana +" tvg-logo="" group-title="DEPORTES",Eurosport Espana +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31748?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="ACB +" tvg-logo="" group-title="DEPORTES",ACB +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31749?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Marco" tvg-logo="" group-title="DEPORTES",Marco
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31750?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="La Voz Espana" tvg-logo="" group-title="DEPORTES",La Voz Espana
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31751?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="SoyMotor" tvg-logo="" group-title="DEPORTES",SoyMotor
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31752?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC 1" tvg-logo="" group-title="DEPORTES",UFC 1
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31753?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC 2" tvg-logo="" group-title="DEPORTES",UFC 2
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31754?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC 3" tvg-logo="" group-title="DEPORTES",UFC 3
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31755?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Memorias del Futbol" tvg-logo="" group-title="DEPORTES",Memorias del Futbol
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31756?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="FC Barcelona +" tvg-logo="" group-title="DEPORTES",FC Barcelona +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31757?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Atletico de Madrid +" tvg-logo="" group-title="DEPORTES",Atletico de Madrid +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31758?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Toro Por Los Cuernos" tvg-logo="" group-title="DEPORTES",Al Toro Por Los Cuernos
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31759?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Toros Fran Gomez" tvg-logo="" group-title="DEPORTES",Toros Fran Gomez
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31760?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Lethal Crysis" tvg-logo="" group-title="DEPORTES",Lethal Crysis
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31761?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Minime" tvg-logo="" group-title="DEPORTES",Minime
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31762?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Mondo World ES" tvg-logo="" group-title="DEPORTES",Mondo World ES
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31763?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Clavero" tvg-logo="" group-title="DEPORTES",Clavero
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31764?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Boxeo +" tvg-logo="" group-title="DEPORTES",Boxeo +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31765?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Tenis +" tvg-logo="" group-title="DEPORTES",Tenis +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31766?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Futbol +" tvg-logo="" group-title="DEPORTES",Futbol +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31767?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Toros +" tvg-logo="" group-title="DEPORTES",Toros +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31768?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Baloncesto +" tvg-logo="" group-title="DEPORTES",Baloncesto +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31769?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC BREAK" tvg-logo="" group-title="DOCUMENTALES",AMC BREAK
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27191?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC CRIME" tvg-logo="" group-title="DOCUMENTALES",AMC CRIME
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27190?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="ONETORO HD" tvg-logo="" group-title="DOCUMENTALES",ONETORO HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27229?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="ONETORO HD +" tvg-logo="" group-title="DOCUMENTALES",ONETORO HD +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27239?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="ENERGY" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_C0_11_22D4_EEEE0000_0_0_0.png" group-title="DOCUMENTALES",ENERGY
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/413?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="DOCUMENTALES",M+Documentales HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/27682?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL ODISEA" tvg-logo="" group-title="DOCUMENTALES",CANAL ODISEA
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/399?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_778D_424_1_C00000_0_0_0.png" group-title="DOCUMENTALES",NAT GEO
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/370?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7472_3F0_1_C00000_0_0_0.png" group-title="DOCUMENTALES",NAT GEO WILD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/371?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_772F_416_1_C00000_0_0_0.png" group-title="DOCUMENTALES",DISCOVERY
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/408?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL DECASA" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7795_424_1_C00000_0_0_0.png" group-title="DOCUMENTALES",CANAL DECASA
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/398?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="CAZAVISION" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="DOCUMENTALES",CAZAVISION
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/29463?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="CAZAyPESCA HD" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_78B8_3EC_1_C00000_0_0_0.png" group-title="DOCUMENTALES",CAZAyPESCA HD
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/402?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA TV" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="DOCUMENTALES",IBERALIA TV
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/420?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA 100 100 CAZA 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" group-title="DOCUMENTALES",IBERALIA 100 100 CAZA 4K
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31131?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA PESCA 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" group-title="DOCUMENTALES",IBERALIA PESCA 4K
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31132?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC HISTORY" tvg-logo="" group-title="DOCUMENTALES",BBC HISTORY
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/30324?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DW Documental" tvg-logo="" group-title="DOCUMENTALES",DW Documental
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31770?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Free Documentary Espanol" tvg-logo="" group-title="DOCUMENTALES",Free Documentary Espanol
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31771?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="TAMAYO" tvg-logo="" group-title="DOCUMENTALES",TAMAYO
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31772?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Real Stories en Espanol" tvg-logo="" group-title="DOCUMENTALES",Real Stories en Espanol
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31773?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Investigaciones +" tvg-logo="" group-title="DOCUMENTALES",Investigaciones +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31774?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Ruhi Cenet" tvg-logo="" group-title="DOCUMENTALES",Ruhi Cenet
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31775?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Aeropuertos +" tvg-logo="" group-title="DOCUMENTALES",Aeropuertos +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31776?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Animales +" tvg-logo="" group-title="DOCUMENTALES",Animales +
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31777?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Andrew Macdonald" tvg-logo="" group-title="DOCUMENTALES",Andrew Macdonald
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31778?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Imineo Documentaires" tvg-logo="" group-title="DOCUMENTALES",Imineo Documentaires
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31779?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="INTERPOL" tvg-logo="" group-title="DOCUMENTALES",INTERPOL
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31780?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="DOCUNAU" tvg-logo="" group-title="DOCUMENTALES",DOCUNAU
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31781?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Feito Geo" tvg-logo="" group-title="DOCUMENTALES",Feito Geo
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31782?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Wild Nature Espa  ol" tvg-logo="" group-title="DOCUMENTALES",Wild Nature Espa  ol
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31783?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="GeoDocs + Arka Documentales" tvg-logo="" group-title="DOCUMENTALES",GeoDocs + Arka Documentales
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31784?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="WUFO Espa  ol" tvg-logo="" group-title="DOCUMENTALES",WUFO Espa  ol
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31785?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORIA" tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_1_7731_416_1_C00000_0_0_0.png" group-title="DOCUMENTALES",HISTORIA
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/419?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Crimen e Investigaci  n" tvg-logo="" group-title="DOCUMENTALES",Crimen e Investigaci  n
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31786?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Horizon" tvg-logo="" group-title="DOCUMENTALES",Horizon
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31787?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="NAGA" tvg-logo="" group-title="DOCUMENTALES",NAGA
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31788?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Andr  s Burenok" tvg-logo="" group-title="DOCUMENTALES",Andr  s Burenok
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31789?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundo Real" tvg-logo="" group-title="DOCUMENTALES",Mundo Real
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31790?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Historias Vivas" tvg-logo="" group-title="DOCUMENTALES",Historias Vivas
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31791?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Alex H  Cremades   Tarzandez" tvg-logo="" group-title="DOCUMENTALES",Alex H  Cremades   Tarzandez
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31792?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
+#EXTINF:-1 tvg-id="ext" tvg-name="Alto Frontera" tvg-logo="" group-title="DOCUMENTALES",Alto Frontera
+http://ab3f5dee5025ae6a8148e07b7cef3655.dev48542.top:25461/gKpHe3hByv/588167585797/31793?h=0ba7a4aaae81824807b75cfa9c7029ea1cb198e8&z=188.26.223.239&i=113854
 
